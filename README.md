@@ -43,7 +43,7 @@ List of resources around gamedev I found, liked, and wanted to bookmark. These h
 * plugin refresher: [github](https://github.com/godot-extended-libraries/godot-plugin-refresher)
 * Signal Lens: [github](https://github.com/yannlemos/Signal-Lens)
 
-### Tutoriels
+### Tutorials
 * Godot 4 - Tiles dungeon environment from scratch: [youtube](https://www.youtube.com/watch?v=VjuyfBaryu8)
 * Godot 4 - Third person character from scratch: [youtube](https://www.youtube.com/watch?v=VasHZZyPpYU)
 * State machines in Godot: [youtube](https://www.youtube.com/watch?v=oqFbZoA2lnU)
