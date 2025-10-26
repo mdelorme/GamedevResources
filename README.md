@@ -1,6 +1,6 @@
 # Game development resources
 
-List of resources around gamedev I found, liked, and wanted to bookmark. These have been/will/are likely to be used for the development of my games Tourtour and Khonsu Station.
+List of resources around gamedev I found, liked, and wanted to bookmark. These have been/will/are likely to be used for the development of my games [Tourtour](https://mdelorme.itch.io/tourtour) and Khonsu Station.
 
 ## Accessibility
 
