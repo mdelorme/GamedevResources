@@ -5,6 +5,7 @@ List of resources around gamedev I found, liked, and wanted to bookmark. These h
 ## Accessibility
 
 * Game Accessibility checklist: [site](https://checklist.gg/templates/game-accessibility-checklist)
+* Game Accessibility guidelines: [site](https://gameaccessibilityguidelines.com/)
 * PSA on Dyslexic fonts: [Reddit post](https://www.reddit.com/r/Dyslexia/comments/jtgovc/a_psa_on_dyslexia_friendly_fonts_from_the/)
 * Ubisoft Chroma: [github](https://github.com/ubisoft/Chroma)
 
